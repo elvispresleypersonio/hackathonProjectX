@@ -1,4 +1,4 @@
-<test>
-    <name></name>
-    <age></age>
-</test>
+{
+    "name": "kevin",
+    "age": 49
+}
